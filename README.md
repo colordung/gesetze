@@ -1,7 +1,7 @@
 Deutsche Bundesgesetze und -verordnungen
 ========================================
-
-Dieses Git Repository enthält alle Deutschen Bundesgesetze und -verordnungen
+ 
+Dieses Git Repository enthält alle Deutschen Bundesgesetze und  -verordnungen
 im [Markdown-Format](http://daringfireball.net/projects/markdown/). Als Quelle
 dienen die XML-Versionen der Gesetze von
 [www.gesetze-im-internet.de](http://www.gesetze-im-internet.de/).
